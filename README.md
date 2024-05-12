@@ -2,7 +2,7 @@
 
 Este repositório contêm oito pastas, cada uma com distintas listas de exercícios (temas). Idioma: portugol
 
-LISTA DE EXERCÍCIOS:
+LISTAS DE EXERCÍCIOS:
 
 1º  - Variáveis  - Tipos de dados - Saída e entrada de dados - Operações aritméticas básicas
 
