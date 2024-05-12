@@ -1,4 +1,4 @@
-# Imersao_logica_programacao_cesarschool
+# Imersao Lógica de programação - Cesar School
 
 Este repositório contêm oito pastas, cada uma com distintas listas de exercícios (temas). Idioma: portugol
 
